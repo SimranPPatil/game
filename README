@@ -1,0 +1,11 @@
+If on a mac, do the following:
+Install python and pip (Follow the source installations after googling)
+pip install pygame
+cd into the folder 
+run:
+python game.py
+You should be able to play the game
+
+If on windows, there is an executable package built, use that to run the game 
+
+If on ubuntu, there is an executable in the build folder
