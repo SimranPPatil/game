@@ -6,6 +6,6 @@ run:
 python game.py
 You should be able to play the game
 
-If on windows, there is an executable package built, use that to run the game 
+If on windows, there is an executable package built, use that to run the game: https://drive.google.com/file/d/1QFUl0fXjMwhZnfCmstU3nH8QubxeBqj9/view?usp=sharing
 
 If on ubuntu, there is an executable in the build folder
